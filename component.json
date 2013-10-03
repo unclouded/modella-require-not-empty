@@ -1,0 +1,13 @@
+{
+  "name": "modella-hypermedia",
+  "description": "Hal Hypermedia library",
+  "version": "0.1.2",
+  "repo": "unclouded/hypermedia",
+  "dependencies": {
+    "component/type": "*",
+    "conponent/trim": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

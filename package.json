@@ -1,0 +1,24 @@
+{
+  "name": "modella-require-not-empty",
+  "description": "Validtor for modella that requires string to be present and not empty",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Simon Hambly",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "trim": "0.0.1",
+    "component-type": "git://github.com/component/type"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "modella": "git://github.com/unclouded/modella#nesting",
+    "expect.js": "~0.2.0"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT"
+}
