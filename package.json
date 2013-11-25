@@ -2,7 +2,7 @@
   "name": "modella-require-not-empty",
   "description": "Validtor for modella that requires string to be present and not empty",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.1",
   "author": "Simon Hambly",
   "main": "./index.js",
   "scripts": {
